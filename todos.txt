@@ -1,0 +1,21 @@
+*******************************************************
+Liste des tache a faire
+********************************************************
+
+player:
+	-description:
+		le joueur n'a que des sors magique pas d'arme de mele (peut etre u fusie plus tard)
+	les stats
+	les animations
+	les projectilles
+	les deplacement
+	stats machine
+room system:
+	-le joueur parcours different salle(room) en eleminant des enemis a la fin de chaque salle on obtions des sorts
+	et des ameliorations pour monter en puissace pour affronter les prochaine salle
+	- chaque salle a un certain nombre de vague entre 3-5 a decider
+	a la salle 10 on a un boss
+enemy:
+	
+itemisation:
+	
